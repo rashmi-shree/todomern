@@ -3,9 +3,9 @@
 A todo application built using the MERN stack, with a primary focus on functionality rather than CSS styling.
 
 
-# React ^18.3.1
+# Express ^4.19.2
 
-https://react.dev/blog/2022/03/29/react-v18
+https://expressjs.com/
 
 
 
